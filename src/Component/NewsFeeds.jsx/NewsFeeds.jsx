@@ -14,7 +14,7 @@ const NewsFeeds = () => {
         <div >
             <div>
                 <SectionTitle heading={"News Feed"}></SectionTitle>
-               <div className='gap-5 p-16'>
+               <div className='gap-8 p-8 md:p-16'>
                {
                     allNews && allNews.map(news => <NewsFeedsCard key={news._id} news={news}></NewsFeedsCard>)
                 }
