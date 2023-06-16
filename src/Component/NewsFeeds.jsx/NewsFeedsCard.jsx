@@ -12,10 +12,10 @@ const NewsFeedsCard = ({ news }) => {
     return (
 
         <div className="card my-10 lg:card-side bg-base-100 shadow-xl">
-            <figure><img className="w-[700px] h-[200px]" src={image_url} alt="Album" /></figure>
+            <figure><img className="w-[700px] h-[250px]" src={image_url} alt="Album" /></figure>
             <div className="card-body">
                 <h2 className="card-title">{title}</h2>
-                <p>     {details.length < 250 ? <>{details}</> : <>{details.slice(0, 250)}<Link className="link-primary underline" to={`/news/${_id}`}>
+                <p>     {details.length < 250 ? <>{details}</> : <>{details.slice(0, 250)}<Link  className="link-primary underline" to={'/'}>
                     ...read more
 
                 </Link></>}</p>

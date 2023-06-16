@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import SectionTitle from '../../Shared/SectionTitle';
 import NewsFeedsCard from './NewsFeedsCard';
 
