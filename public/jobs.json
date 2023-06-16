@@ -1,0 +1,86 @@
+[
+    {
+      "job_id": "job001",
+      "title": "Software Engineer",
+      "company": "ABC Tech",
+      "location": "San Francisco, CA",
+      "salary": "$100,000 - $120,000",
+      "description": "ABC Tech is seeking a talented Software Engineer to join our team...",
+      "requirements": [
+        "Bachelor's degree in Computer Science or related field",
+        "Proficient in Java and Python",
+        "Experience with web development frameworks such as React or Angular",
+        "Strong problem-solving skills"
+      ]
+    },
+    {
+      "job_id": "job002",
+      "title": "Marketing Specialist",
+      "company": "XYZ Corporation",
+      "location": "New York, NY",
+      "salary": "$60,000 - $80,000",
+      "description": "XYZ Corporation is looking for a creative Marketing Specialist...",
+      "requirements": [
+        "Bachelor's degree in Marketing or related field",
+        "Experience with social media marketing",
+        "Excellent written and verbal communication skills",
+        "Ability to work in a fast-paced environment"
+      ]
+    },
+    {
+      "job_id": "job003",
+      "title": "Data Analyst",
+      "company": "123 Analytics",
+      "location": "London, UK",
+      "salary": "£40,000 - £50,000",
+      "description": "123 Analytics is seeking a detail-oriented Data Analyst to join our team...",
+      "requirements": [
+        "Bachelor's degree in Statistics, Mathematics, or related field",
+        "Proficiency in SQL and data visualization tools",
+        "Experience with statistical analysis and data modeling",
+        "Strong analytical and problem-solving skills"
+      ]
+    },
+    {
+      "job_id": "job004",
+      "title": "Graphic Designer",
+      "company": "Design Studio XYZ",
+      "location": "Los Angeles, CA",
+      "salary": "$50,000 - $70,000",
+      "description": "Design Studio XYZ is looking for a talented Graphic Designer...",
+      "requirements": [
+        "Bachelor's degree in Graphic Design or related field",
+        "Proficient in Adobe Creative Suite",
+        "Experience with both print and digital design",
+        "Strong portfolio showcasing design skills"
+      ]
+    },
+    {
+      "job_id": "job005",
+      "title": "Financial Analyst",
+      "company": "Global Investments Inc.",
+      "location": "Singapore",
+      "salary": "SGD 80,000 - SGD 100,000",
+      "description": "Global Investments Inc. is seeking a skilled Financial Analyst...",
+      "requirements": [
+        "Bachelor's degree in Finance, Economics, or related field",
+        "Strong analytical and financial modeling skills",
+        "Experience in investment analysis and risk assessment",
+        "Proficiency in financial software and Excel"
+      ]
+    },
+    {
+      "job_id": "job006",
+      "title": "Human Resources Manager",
+      "company": "ABC Corporation",
+      "location": "Toronto, Canada",
+      "salary": "$70,000 - $90,000",
+      "description": "ABC Corporation is looking for an experienced HR Manager...",
+      "requirements": [
+        "Bachelor's degree in Human Resources or related field",
+        "Knowledge of employment laws and regulations",
+        "Experience in talent acquisition, performance management, and employee relations",
+        "Strong communication and leadership skills"
+      ]
+    }
+  ]

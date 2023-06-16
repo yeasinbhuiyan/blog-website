@@ -14,9 +14,7 @@ const UpcommingEventCard = ({ upcommingEvent }) => {
                     <p className="text-xl">{upcommingEvent?.location}</p>
                     <p className="font-bold">{moment(upcommingEvent?.date).format('MMMM Do YYYY')}</p>
               </div>
-                {/* <div className="card-actions justify-end">
-                    <button className="btn btn-primary">Buy Now</button>
-                </div> */}
+               
             </div>
         </div>
     );
