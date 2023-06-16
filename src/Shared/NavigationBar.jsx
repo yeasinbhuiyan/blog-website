@@ -43,7 +43,7 @@ useEffect(()=>{
 
 
     return (
-        <div className="navbar fixed z-10  bg-gradient-to-r md:px-5 bg-opacity-30 max-w-screen-xl text-white bg-black">
+        <div className="navbar fixed z-10  bg-gradient-to-r md:px-5 bg-opacity-30 text-white bg-black">
             <div className="navbar-start ">
                 <div className="dropdown">
                     <label tabIndex={0} className="btn btn-ghost lg:hidden   ">

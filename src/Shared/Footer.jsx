@@ -5,7 +5,7 @@ import { FaArrowRight, FaFacebook, FaGithub, FaGoogle } from 'react-icons/Fa';
 const Footer = () => {
     return (
         <>
-            <footer className="footer   max-w-screen-xl  mx-auto  p-10 py-20 bg-black">
+            <footer className="footer  mx-auto  p-10 py-20 bg-black">
                 <div>
 
 
