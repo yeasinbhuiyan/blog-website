@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+.btn-success{
+  @apply bg-yellow-600 px-2 text-white rounded border hover:border-yellow-200 border-yellow-400 hover:bg-yellow-900
+}

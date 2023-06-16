@@ -1,0 +1,96 @@
+[
+    {
+      "segment1": "Food and Cooking",
+      "subSegments": [
+        {
+          "name": "Quick and Easy Recipes",
+          "image": "https://media.istockphoto.com/id/1313453898/photo/homemade-gluten-free-bagels-with-smoked-salmon-and-cream-cheese.webp?b=1&s=170667a&w=0&k=20&c=4swVm-S_cs86I4zitsgWvR8QR1GzKeh25hfdfG5eLvA=",
+          "description": "Explore a collection of quick and easy recipes for everyday cooking."
+        },
+        {
+          "name": "International Cuisine",
+          "image": "https://media.istockphoto.com/id/513124350/photo/cuisine-of-different-countries.webp?b=1&s=170667a&w=0&k=20&c=Zqg6RisDQG3iV7q1StzROJXmuLO9LYTGQ-rPxEm_Gd0=",
+          "description": "Embark on a culinary journey and discover flavors from around the world."
+        },
+        {
+          "name": "Baking and Pastry",
+          "image": "https://media.istockphoto.com/id/1364827981/photo/vegan-desserts-bakery-assortment-recipes-vegan-brownie-cinnamon.webp?b=1&s=170667a&w=0&k=20&c=ocon3YIKZSHgyhbOtDOPJlHvVh3jRpOVltAz_wumcQ0=",
+          "description": "Learn the art of baking and pastry-making with expert tips and techniques."
+        },
+        {
+          "name": "Healthy Eating",
+          "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8SGVhbHRoeSUyMEVhdGluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+          "description": "Discover nutritious recipes and dietary tips for a healthy lifestyle."
+        },
+        {
+          "name": "Vegetarian and Vegan Options",
+          "image": "https://media.istockphoto.com/id/1322429152/photo/food-choices.webp?b=1&s=170667a&w=0&k=20&c=li_ygH_0BH4kY14es-rNrfFNieOzHwTIW5EQgTgDKxc=",
+          "description": "Explore a variety of delicious vegetarian and vegan recipes."
+        }
+       
+      
+      ]
+    },
+    {
+      "segment2": "Travel and Adventure",
+      "subSegments": [
+        {
+          "name": "Destination Guides",
+          "image": "https://media.istockphoto.com/id/619971506/photo/happy-traveling-tourists-sightseeing.webp?b=1&s=170667a&w=0&k=20&c=xcozX24dAPFEFrB-ZAYntvoyhslAOkCGotwpfPqKCzM=",
+          "description": "Explore comprehensive destination guides and plan your next adventure."
+        },
+        {
+          "name": "Adventure Travel",
+          "image": "https://media.istockphoto.com/id/485614909/photo/guide-explaining-to-tourists-the-coliseum-of-rome.webp?b=1&s=170667a&w=0&k=20&c=NEDzAgLtT6bq4nKaumsyrBdljRcwMbt205-ldM6RzbQ=",
+          "description": "Embark on thrilling adventures and discover adrenaline-pumping activities."
+        },
+        {
+          "name": "Solo Travel",
+          "image": "shttps://media.istockphoto.com/id/855413388/photo/theres-so-much-to-see.webp?b=1&s=170667a&w=0&k=20&c=sX_dwqRvV4sMFHBuPjy4USW0bB61L8bPf1Vvtg_fJos=",
+          "description": "Learn valuable tips and insights for traveling solo and embracing the freedom of exploration."
+        },
+        {
+          "name": "Cultural Experiences",
+          "image": "https://media.istockphoto.com/id/1372562865/photo/abstract-background-cooperation-for-success-unity-to-achieve-goals-goals-achieved-together-3d.webp?b=1&s=170667a&w=0&k=20&c=XaJLTKm5CnfzqtW1bCv1-7Lw6ISra2iniePlQYAqepw=",
+          "description": "Immerse yourself in different cultures and gain a deeper understanding of local traditions."
+        },
+        {
+          "name": "Luxury Travel",
+          "image": "https://media.istockphoto.com/id/471818122/photo/burj-al-arab-with-madinat-jumeriah-dubai.webp?b=1&s=170667a&w=0&k=20&c=nileBx_gQz_QAQPkWQrHcVQr6z743Q7NscBLF5yB5N4=",
+          "description": "Indulge in luxury travel experiences and explore opulent destinations."
+        }
+       
+      ]
+    },
+    {
+      "segment3": "Health and Wellness",
+      "subSegments": [
+        {
+          "name": "Fitness and Exercise",
+          "image": "https://media.istockphoto.com/id/1445996378/photo/woman-smiling-in-front-of-white-wall-with-mat-and-water-bottle.webp?b=1&s=170667a&w=0&k=20&c=awkP0TIl58ggL0ogY2KzlE5zvrxK0mKj1ec6QxlMWt8=",
+          "description": "Get inspired and stay fit with effective fitness and exercise routines."
+        },
+        {
+          "name": "Nutrition and Diet",
+          "image": "https://media.istockphoto.com/id/1468860049/photo/fitness-woman-eating-a-healthy-poke-bowl-in-the-kitchen-at-home.webp?b=1&s=170667a&w=0&k=20&c=c08Lig9KppfoRiQApmhtaGQ-EShefDcpEPVV9CD8vvc=",
+          "description": "Discover the importance of nutrition and learn about healthy eating habits."
+        },
+        {
+          "name": "Mental Health and Well-being",
+          "image": "https://media.istockphoto.com/id/1452669734/photo/happy-indian-woman-outdoor-freedom-and-arms-out-ocean-wind-and-breathe-fresh-air-with-purpose.webp?b=1&s=170667a&w=0&k=20&c=-MM6iiQ5YH8k_eg3-w52DdnbH7wUd3lK76LRqnQUSnc=",
+          "description": "Explore strategies and practices to enhance mental health and overall well-being."
+        },
+        {
+          "name": "Yoga and Meditation",
+          "image": "https://media.istockphoto.com/id/1187361257/photo/finding-my-balance.webp?b=1&s=170667a&w=0&k=20&c=KAWkNtV47XwI4WydiWULwu30WTJf7EDnsmdlYB8Emgg=",
+          "description": "Experience the benefits of yoga and meditation for relaxation and inner peace."
+        },
+        {
+          "name": "Stress Management",
+          "image": "https://media.istockphoto.com/id/1398466630/photo/bearded-man-comfortably-sitting-on-a-coach-reading-a-book-and-holding-his-dog.webp?b=1&s=170667a&w=0&k=20&c=KBTKXgPcQybX3-4JOxLIaFrgaiP_TKhiAOeRqLzOVpw=",
+          "description": "Learn effective techniques to manage and reduce stress in your daily life."
+        }
+      
+      ]
+    }
+  ]
