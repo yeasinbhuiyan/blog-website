@@ -1,12 +1,13 @@
 import { useEffect, useState } from "react";
 import { Tab, TabList, TabPanel, Tabs } from "react-tabs";
 import 'react-tabs/style/react-tabs.css';
+import BlogTab from "./BlogTab";
 
 
 const Blog = () => {
     const [segments, setSegments] = useState([])
     useEffect(() => {
-        fetch('/blog2.json')
+        fetch('/blog.json')
             .then(res => res.json())
             .then(data => setSegments(data))
 
@@ -19,9 +20,9 @@ const Blog = () => {
     const segment3 = segments.filter(sf => sf.segment === 'Health and Wellness')
 
 
-    console.log(segment1 ,segment2,segment3 )
+    console.log(segment1, segment2, segment3)
     return (
-        <div>
+        <div className="py-10">
 
             <Tabs>
                 <TabList>
@@ -39,15 +40,15 @@ const Blog = () => {
                 </TabList>
 
                 <TabPanel>
-                    <h1>Tab 1</h1>
+                    <BlogTab blogs={segment1}></BlogTab>
                 </TabPanel>
 
 
                 <TabPanel>
-                    <h1>tab 2 </h1>
+                    <BlogTab blogs={segment2}></BlogTab>
                 </TabPanel>
                 <TabPanel>
-                    <h1>tab 3 </h1>
+                    <BlogTab blogs={segment3}></BlogTab>
                 </TabPanel>
             </Tabs>
         </div>
