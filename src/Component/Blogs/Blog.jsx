@@ -26,7 +26,8 @@ const Blog = () => {
 
             <Tabs>
                 <TabList>
-                    <Tab>
+                   <div className="flex px-10 mx-auto">
+                   <Tab>
                         Food and Cooking
                     </Tab>
 
@@ -37,6 +38,7 @@ const Blog = () => {
                     <Tab>
                         Health and Wellness
                     </Tab>
+                   </div>
                 </TabList>
 
                 <TabPanel>
